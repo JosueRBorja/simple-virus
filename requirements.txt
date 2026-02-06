@@ -1,0 +1,2 @@
+# Requiere Python 3.10.12
+keyboard==0.13.5
